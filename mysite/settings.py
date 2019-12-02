@@ -27,9 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "/blog/static"),
-]
+
 
 # Application definition
 
